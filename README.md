@@ -1,6 +1,6 @@
 # Migrated to Gitlab server
 You can now find this project on our new Gitlab server here:
-https://gitlab.scrippsnet.app/scrippsnet-archive/doa
+https://gitlab.scrippsnet.app/biztech/eks-cluster
 
 
 # AWS EKS Kubernetes cluster using AWS CloudFormation
